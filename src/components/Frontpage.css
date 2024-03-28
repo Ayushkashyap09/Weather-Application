@@ -1,0 +1,24 @@
+.front {
+  /* background-image: url("cloudy.gif"); */
+  /* background-repeat: no-repeat; */
+  /* background-size: 40vh; */
+  /* background-position: center; */
+  /* background-color: transparent; */
+  /* width : 99vh; */
+  /* height: 90vh; */
+  /* margin: auto; */
+  /* margin-top: 5vh; */
+  /* border-radius: 3vh; */
+  /* border: 2px solid black; */
+  /* display: inline-block; */
+
+  border: 2px solid black;
+  width: 99vh;
+  height: 90vh;
+  margin: auto;
+  margin-top: 5vh;
+  border-radius: 3vh;
+  background-color: rgba(0, 0, 0, 0.25);
+  box-shadow: 5px 10px 20px black;
+  color: rgb(0, 0, 0);
+}
